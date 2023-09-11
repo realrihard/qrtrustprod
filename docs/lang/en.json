@@ -1,0 +1,37 @@
+{
+    "hero_title": "<span>Professional</span> digital barcode solution",
+    "hero_subtitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean mass",
+    "hero_button": "Create E-labels Today",
+    "hero_content_1": "We are a leading technology company that specializes in meeting the global demand of the digital barcode revolution. We offer innovative solutions that help brands to interact with consumers in completely new ways.",
+    "hero_content_2": "That's the last call for the coming EU regulations on publishing ingredients and nutritional information by creating your own QR codes.",
+    "hero_content_3": "From December 8th, 2023, wines and sparkling wines will have to show a nutrition declaration and a list of ingredients on their labels due to EU-Regulation 2021/2117. This can either be printed on the physical label or in digital form as a QR code, the so-called 'e-label'.",
+    "hero_slogan": "We give you endless possibilities in digital identity",
+
+    "about_title": "Who <span>we are</span>",
+    "about_content_1": "At QR TRUST, we are passionate about creating cutting-edge technology that revolutionizes the way businesses interact with their customers.",
+    "about_content_2": "Our team of experts is dedicated to delivering innovative solutions that help our clients achieve their goals and succeed in today's fast-paced digital world.",
+
+    "solution_title": "Our<br> <span>Solutions</span>",
+    "solution_content": "At QR TRUST, we offer a range of solutions that are designed to help businesses leverage the power of digital barcodes and enhance their customer engagement.",
+    "solution_name_1": "QR Code Generation",
+    "solution_name_2": "Mobile marketing",
+    "solution_name_3": "Customer Analitycs",
+
+    "info_title": "Create<br> <span>E-Labels</span> today",
+    "info_content": "Get ready for the coming EU regulations on publishing ingredients and nutritional information by creating your own QR codes",
+    "info_list_1": "The product must clearly identified",
+    "info_list_2": "All the ingredients listed with allergens highlighted",
+    "info_list_3": "A nutritional table with the energy values",
+    "info_list_4": "Certification and other information is optional",
+
+    "callback_form_title": "Leave your email",
+    "callback_form_subtitle": "We will send you a notification when the service starts. Your gift will be linked to your email. The form can be submitted only once.",
+    "callback_form_mail": "Your e-mail",
+    "callback_form_button": "Send",
+
+    "copyrights": "All rights recevied<br> Copyright 2023",
+    "menu_1": "About us",
+    "menu_2": "Solutions",
+    "menu_3": "E-Lable",
+    "menu_4": "Contact Us"
+}
